@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Obsidian — per-device UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Obsidian trash
+.trash/
+
+# Claude Code local overrides
+.claude/settings.local.json
