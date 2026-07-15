@@ -7,7 +7,7 @@ tags:
 created: 2026-07-15
 source: https://react.dev/reference/react/useRef
 ---
-/
+
 # React Hooks — useRef
 
 > Mutable value that persists across renders **without** triggering a re-render. Part of [[React Hooks Guide]].

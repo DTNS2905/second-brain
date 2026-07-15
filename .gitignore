@@ -13,3 +13,8 @@
 
 # Claude Code local overrides
 .claude/settings.local.json
+
+# Quartz build artifacts
+_quartz/node_modules/
+_quartz/public/
+_quartz/.quartz-cache/
