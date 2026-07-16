@@ -64,4 +64,5 @@ The LLM never touches the DOM directly. It only ever **describes** what it wants
 
 ## Related Notes
 
-- (empty) — future notes on MCP, Prompt Engineering, and Anthropic Computer Use will land here.
+- [[AI MCP Guide]] — the deep-dive on the Model Context Protocol that `@playwright/mcp` implements
+- (empty) — future notes on Prompt Engineering and Anthropic Computer Use will land here.

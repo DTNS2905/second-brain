@@ -95,13 +95,13 @@ Every step is a JSON record — trivial to replay, diff, or feed into an evaluat
 
 ## Summary
 
-| Concept | Takeaway |
-|---------|----------|
-| Loop shape | Observe → Decide → Execute → Feedback, until `done` or max-steps |
-| State format | a11y tree + optional screenshot (**hybrid** is best practice) |
+| Concept       | Takeaway                                                             |
+| ------------- | -------------------------------------------------------------------- |
+| Loop shape    | Observe → Decide → Execute → Feedback, until `done` or max-steps     |
+| State format  | a11y tree + optional screenshot (**hybrid** is best practice)        |
 | Action format | Structured JSON referencing indexed elements — not pixel coordinates |
-| Debuggability | Every step is a discrete, replayable record |
-| Alternative | Write a plain Playwright script when the flow is fixed |
+| Debuggability | Every step is a discrete, replayable record                          |
+| Alternative   | Write a plain Playwright script when the flow is fixed               |
 
 ---
 
