@@ -92,6 +92,7 @@ Prefer SSG first (cheapest, fastest). Add ISR when content needs freshness. Use 
 
 ## Related Notes
 
+- [[Web Reflow and Repaint Guide]] — what the browser does after the HTML arrives: layout, paint, composite
 - [[Web Rendering Patterns - Comparison]] — full tradeoff table
 - [[React Reconciliation - Virtual DOM and Fiber]] — how React's fiber architecture handles SSR hydration
 - [[React Component Composition - React Elements]] — how React elements relate to server vs client rendering

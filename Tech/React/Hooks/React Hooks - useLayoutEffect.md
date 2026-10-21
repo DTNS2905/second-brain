@@ -157,3 +157,4 @@ Do you need to run code after DOM commit?
 - [[React Hooks - useEffect]] — non-blocking default
 - [[React Hooks - useRef]] — the ref you'll measure inside a layout effect
 - [[React Hooks - Rules of Hooks]]
+- [[Web Reflow and Repaint - In React]] — why the read inside a layout effect forces reflow, and how to keep it to once

@@ -105,3 +105,4 @@ When the work-in-progress tree is complete, React swaps it with the current tree
 
 - [[React Reconciliation - Diffing Algorithm]] — how trees are compared
 - [[React Reconciliation Guide]] — back to index
+- [[Web Reflow and Repaint Guide]] — what "reflows, repaints" actually cost in the browser

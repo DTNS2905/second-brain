@@ -27,6 +27,7 @@ Personal learning journal — technical notes on iOS, React, Web fundamentals, A
 
 ### Web
 - [[Web Rendering Patterns Guide]] — SPA vs SSR vs SSG, tradeoffs
+- [[Web Reflow and Repaint Guide]] — pixel pipeline, forced layout & thrashing, compositor-only animation, containment, DevTools, React patterns
 
 ### AI
 - [[AI Agentic Browser Automation Guide]] — observation-action loop, action space, accessibility tree, Playwright, browser-use, framework comparison
